@@ -1,0 +1,6 @@
+[book]
+authors = ["mouthree"]
+language = "en"
+multilingual = false
+src = "src"
+title = "one_thousand_nb_computer"
